@@ -1,0 +1,32 @@
+[  
+    {
+        "pages": "Retweets",
+        "image": "design/twitter.svg",
+        "followCount": "117",
+        "svg": "design/green_arrow_up.svg",
+        "followPercent": "3%"
+      },
+      {
+        "pages": "Likes",
+        "image": "design/twitter.svg",
+        "followCount": "507",
+        "svg": "design/green_arrow_up.svg",
+        "followPercent": "2%"
+      },
+      {
+        "pages": "Likes",
+        "image": "design/youtube.svg",
+        "followCount": "107",
+        "svg": "design/red_arrow_down.svg",
+        "followPercent": "2257%",
+        "followPercentColor": "red"
+      },
+      {
+        "pages": "Total Views",
+        "image": "design/youtube.svg",
+        "followCount": "1407",
+        "svg": "design/red_arrow_down.svg",
+        "followPercent": "1375%",
+        "followPercentColor": "red"
+      }
+]

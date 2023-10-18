@@ -1,0 +1,31 @@
+[
+    {
+        "pages": "Pages View",
+        "image": "design/facebook.svg",
+        "followCount": "87",
+        "svg": "design/green_arrow_up.svg",
+        "followPercent": "3%"
+      },
+      {
+        "pages": "Likes",
+        "image": "design/facebook.svg",
+        "followCount": "52",
+        "svg": "design/red_arrow_down.svg",
+        "followPercent": "2%",
+        "followPercentColor": "red"
+      },
+      {
+        "pages": "Likes",
+        "image": "design/instagram.svg",
+        "followCount": "5462",
+        "svg": "design/green_arrow_up.svg",
+        "followPercent": "2257%"
+      },
+      {
+        "pages": "Profile View",
+        "image": "design/instagram.svg",
+        "followCount": "52k",
+        "svg": "design/green_arrow_up.svg",
+        "followPercent": "1375%"
+      }
+]

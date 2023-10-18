@@ -1,0 +1,39 @@
+[
+  {
+    "image": "design/facebook.svg",
+    "username": "@nathanf",
+    "followers": "1987",
+    "followers2": "FOLLOWERS",
+    "svg": "design/green_arrow_up.svg",
+    "followersToday": "12 Today",
+    "borderColor": "#178FF5"
+  },
+  {
+    "image": "design/twitter.svg",
+    "username": "@nathanf",
+    "followers": "1044",
+    "followers2": "FOLLOWERS",
+    "svg": "design/green_arrow_up.svg",
+    "followersToday": "99 Today",
+    "borderColor": "#1DA1F2"
+  },
+  {
+    "image": "design/instagram.svg",
+    "username": "@realnathanf",
+    "followers": "11k",
+    "followers2": "FOLLOWERS",
+    "svg": "design/green_arrow_up.svg",
+    "followersToday": "1099 Today",
+    "borderColor": "#FDC366"
+  },
+  {
+    "image": "design/youtube.svg",
+    "username": "Nathan F.",
+    "followers": "8239",
+    "followers2": "FOLLOWERS",
+    "svg": "design/red_arrow_down.svg",
+    "followersToday": "144 Today",
+    "borderColor": "#C4032B",
+    "followPercentColor": "red"
+  }
+]
